@@ -1,0 +1,13 @@
+# Ignore artifacts:
+.angular
+.scannerwork
+.vscode
+build
+coverage
+dist
+node_modules
+
+src/assets/scss/_utilities.scss
+
+tsconfig.federation.json
+projects/gen/tsconfig.federation.json
