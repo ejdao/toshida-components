@@ -23,7 +23,8 @@
     "lib": ["ES2022", "dom"],
     "paths": {
       "@modules/*": ["src/modules/*"],
-      "@layouts/*": ["src/layouts/*"]
+      "@layouts/*": ["src/layouts/*"],
+      "@toshida/ng-components/*": ["./dist/components/*"]
     }
   },
   "angularCompilerOptions": {
